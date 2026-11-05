@@ -1,4 +1,4 @@
-  # 20262RCOSE32202 — Operating Systems (COSE341)
+  # 20262R0136COSE32202 — Operating Systems (COSE341)
 
    2026학년도 2학기 고려대학교 운영체제 수업 정리 저장소입니다.
 
